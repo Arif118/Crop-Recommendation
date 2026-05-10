@@ -1,6 +1,6 @@
 # Crop Recommendation System
 
-A Machine Learning-based crop recommendation system that predicts the most suitable crop based on soil nutrients and environmental conditions. This project uses agricultural and environmental data to assist in intelligent crop selection using machine learning techniques.
+A Machine Learning-based crop recommendation system that predicts the most suitable crop based on soil nutrients and environmental conditions. This project uses agricultural and environmental data to assist in intelligent crop selection using machine learning techniques and Streamlit GUI to make it user interactive.
 
 
 ---
@@ -29,6 +29,7 @@ The project demonstrates:
  * Matplotlib
  * Seaborn
  * Scikit-learn
+ * Streamlit
 
 ---
 
@@ -62,6 +63,7 @@ The project follows a complete ML workflow:
 * 6. Model Training
 * 7. Model Evaluation
 * 8. Crop Prediction
+* 9. Deploy on Streamlit
 
 Model Used :  Random Forest
 
